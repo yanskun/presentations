@@ -1,0 +1,17 @@
+{
+  "name": "presentations",
+  "version": "1.0.0",
+  "description": "プレゼン資料を作る用",
+  "main": "index.js",
+  "dependencies": {
+    "@marp-team/marp-cli": "^0.14.1",
+    "git-cz": "^3.2.1",
+    "yarn": "^1.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "commit": "npx git-cz"
+  },
+  "author": "yasudanaoya",
+  "license": "ISC"
+}
